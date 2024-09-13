@@ -1,3 +1,5 @@
+/* Hello world from K&R */
+
 #include <stdio.h>
 
 main()
