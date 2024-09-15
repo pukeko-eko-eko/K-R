@@ -1,4 +1,5 @@
 /* Hello world from K&R */
+/* Second test comment */
 
 #include <stdio.h>
 
